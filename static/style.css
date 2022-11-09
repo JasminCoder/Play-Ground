@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.caja {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
